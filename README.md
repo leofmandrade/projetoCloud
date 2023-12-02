@@ -64,6 +64,5 @@ O CloudWatch é um serviço de monitoramento da AWS. Nesse projeto, foram criado
 
 ----
 
-
-
-
+### Custos
+![custo](img/custo.png)
