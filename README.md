@@ -74,10 +74,10 @@ Ou seja, essa API é capaz de se conectar ao banco de dados RDS e realizar opera
 
 ![aplicacao](img/aplicacao.jpg)
 
-Para acessá-la, é necessário utilizar o DNS IPv4 público ou o Endereço IPv4 público da instância EC2. Assim é possível acessar a documentação da API, por exemplo:
+Para acessá-la, é necessário utilizar o DNS IPv4 público ou o Endereço IPv4 público da instância EC2. Assim é possível acessar a documentação da API, por exemplo, com um IP público `100.26.36.148`:
 
 ```
-DNS IPv4 público: 100.26.36.148/docs
+100.26.36.148/docs
 ```
 
 
